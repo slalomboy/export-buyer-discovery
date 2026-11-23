@@ -1,0 +1,4 @@
+interface:
+  display_name: "海外采购商开发"
+  short_description: "从产品与工厂资料出发，比较适合的市场、发现采购公司并核验采购人与公开商务联系方式"
+  default_prompt: "使用 $export-buyer-discovery，根据产品和工厂资料比较目标市场、发现采购公司并核验采购人及公开商务联系方式，先不要发送信息。"
